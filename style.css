@@ -1,0 +1,128 @@
+@charset "utf-8";
+.apex {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	text-decoration: none;
+}
+.bottomlink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #153962;
+	text-decoration: none;
+}
+a.apex:hover {
+	color: #0AAAC0;
+	text-decoration: none;
+}
+
+a.bottomlink:hover {
+	color: #951102;
+	text-decoration: none;
+}
+.copyright {
+	font-family: Calibri;
+	font-size: 11px;
+	color: #000000;
+	text-decoration: none;
+}
+.subheading {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #0B2C44;
+	text-decoration: none;
+	font-variant: normal;
+}
+.headings {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-transform: uppercase;
+	color: #F7BA02;
+	text-decoration: none;
+}
+.content {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 20px
+.px;
+	color: #2D2D2D;
+	text-decoration: none;
+	text-align: justify;
+	line-height: 20px;
+}
+a.subheading:hover {
+	color: #FF0000;
+	text-decoration: none;
+}
+.links {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #232323;
+	text-decoration: none;
+}
+a.content:hover {
+	color: #FF0000;
+	text-decoration: none;
+}
+#apDiv1 {
+	position:absolute;
+	width:105px;
+	height:100px;
+	z-index:1;
+	left: 717px;
+	top: 153px;
+	overflow: visible;
+}
+#apDiv2 {
+	position:absolute;
+	width:105px;
+	height:100px;
+	z-index:2;
+	left: 717px;
+	top: 275px;
+}
+#T4 {
+	position:absolute;
+	width:160px;
+	height:225px;
+	z-index:3;
+	left: 828px;
+	top: 153px;
+	overflow: hidden;
+	visibility: hidden;
+}
+#T5 {
+	position:absolute;
+	width:225px;
+	height:225px;
+	z-index:4;
+	left: 718px;
+	top: 155px;
+	overflow: hidden;
+	visibility: hidden;
+}
+#apDiv3 {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:5;
+}
+#T5 {
+	position:absolute;
+	width:225px;
+	height:225px;
+	z-index:5;
+	left: 825px;
+	top: 273px;
+}
+
+.articles {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #03757E;
+	text-decoration: none;
+}
+a.articles:hover {
+	color: #FC1016;
+	text-decoration: none;
+}
